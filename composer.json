@@ -1,0 +1,16 @@
+{
+  "name": "ld-web/api-pe6-intro",
+  "description": "API Intro for HB Students",
+  "authors": [
+    {
+      "name": "Lucas Delobelle",
+      "email": "lucas@ld-web.net"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {}
+}
